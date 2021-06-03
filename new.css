@@ -18,22 +18,19 @@ opacity: 1;
 
 li{
 display: inline;
-margin-right:6%;
 color:#2E2E2E;
-border-color:black;	
+margin-right:6%;
+border-color:black;
 }
 
 
 ul {
-padding-left:4%;
+padding-top:6px;
+padding-bottom:6px;
 font-size:40px;		
-display: inline;
 color:#2E2E2E;
 background-color:#505050;
 border-radius:20px;
-width:95%;
-position:fixed;
-bottom:84%;
 }
 
 a {
@@ -45,7 +42,7 @@ text-decoration: none;
 
 
 #glavnaia {
-color:black;
+color:#C0C0C0	;
 text-decoration:none;	
 }
 
@@ -63,7 +60,7 @@ background-color:#1E2460;
 }
 
 a:hover {
-color:black;
+color:#C0C0C0	;
 text-decoration:underline;
 background-color:#505050	;	
 	
@@ -93,7 +90,7 @@ width:100%;
 }
 
 hr{
-//size:10px;
+
 color:#7F7679;	
 	
 }
@@ -183,5 +180,9 @@ td > img {
 		
 
 		
-		
+		#vverh {
+	
+margin-top:-22px;	
+	
+} 
 		
